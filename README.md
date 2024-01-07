@@ -7,3 +7,5 @@ By predicting near-future yield, the company will be better equipped to tackle p
 This dataset is a unique compilation of field-based meteorological observations and wind power generation data, collected directly from one of our company's operational sites. 
 The dataset represents a detailed hourly record, starting from January 2, 2017. 
 This rich dataset provides real-world insights into the interplay between various weather conditions and wind energy production.
+
+# This is a work in progress
